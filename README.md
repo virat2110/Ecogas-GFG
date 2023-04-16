@@ -57,4 +57,4 @@ Our project aims to solve the UN sustainable development goal of generating clea
 
 ## Contribution Guide
 
-We won't be accepting any PR's till the Solution Challenge evaluation is not done, after that we will keep the application open-source and would welcome contributions to this project.
+We won't be accepting any PR's till the Hackathon evaluation is not done, after that we will keep the application open-source and would welcome contributions to this project.
